@@ -1,2 +1,4 @@
 
 ## functions
+##pointers
+##arrays
