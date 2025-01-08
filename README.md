@@ -1,4 +1,4 @@
 
 ## functions
-##pointers
-##arrays
+## pointers
+## arrays
