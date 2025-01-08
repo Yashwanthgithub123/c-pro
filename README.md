@@ -1,4 +1,3 @@
 
 ## functions
-## pointers
 ## arrays
