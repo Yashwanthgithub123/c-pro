@@ -1,3 +1,8 @@
 #include<stdio.h>
 int main(){
-  printf("HELLO ,HI!");}
+int a=10;
+int b=20;
+int c =a+b;
+printf("%d",c);
+  printf("HELLO ,HI!");
+}
